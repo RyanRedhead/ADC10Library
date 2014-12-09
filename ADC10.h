@@ -8,6 +8,6 @@
 #ifndef ADC10_H_
 #define ADC10_H_
 
-int readvalue(int pinnumber);
+unsigned short readvalue(int pinnumber);
 
 #endif /* ADC10_H_ */
